@@ -6,6 +6,10 @@ Currently the 4.0 API does not contain a [Scalebar](https://developers.arcgis.co
 
 ## WORKS ONLY FOR 2D!
 
+### Requirements
+
+* Requires [D3](https://d3js.org/)
+
 ### Usage
 Simply load the module into your code using dojo.require.
 
