@@ -22,10 +22,10 @@ var scalebar = new Scalebar({
 
 ### Constructor parameters:
 
-domNode: the dom-node to attach the scalebar to (required).
-view: the Map View object which the scalebar will reference (required).
-unit: 'dual' = Metric & Imperial, or 'metric' = Metric, 'imperial' = Imperial (optional).
-colour: the colour of the scalebar (optional).
+* domNode: the dom-node to attach the scalebar to (required).
+* view: the Map View object which the scalebar will reference (required).
+* unit: 'dual' = Metric & Imperial, or 'metric' = Metric, 'imperial' = Imperial (optional).
+* colour: the colour of the scalebar (optional).
 
 ### Example
 Here is a quick example to get you started. Just copy the Scalebar.js file into your project, add the correct dojoConfig parameters to load the module, then just use it in your code as you would a standard dojo widget.
