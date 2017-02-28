@@ -2,9 +2,12 @@
 
 A re-purposed [Esri JavaScript 3.17 API](https://developers.arcgis.com/javascript/) Scalebar widget.
 
-Currently the 4.0 API does not contain a [Scalebar](https://developers.arcgis.com/javascript/3/jsapi/scalebar-amd.html), therefore this tool can be used to replicate that functionality.
+Currently the 4.2 API does not contain a [Scalebar](https://developers.arcgis.com/javascript/3/jsapi/scalebar-amd.html), therefore this tool can be used to replicate that functionality.
 
 ## WORKS ONLY FOR 2D!
+
+### Live Demo
+https://kingy68.github.io/esri-javascript-scalebar-4/index.html
 
 ### Requirements
 
